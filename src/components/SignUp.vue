@@ -6,6 +6,9 @@
         <input type="text" placeholder="Enter Email" v-model="email" />
         <input type="password" placeholder="Enter Password" v-model="password" />
         <button v-on:click="signUp">Sign Up</button>
+        <p>
+            <router-link to="/log-in">Already a member?</router-link>
+        </p>
     </div>
 </template>
 <script>
@@ -56,28 +59,4 @@ export default {
     }
 }
 </script>
-<style scoped>
-.logo {
-    width: 150px
-}
-
-.register input {
-    width: 300px;
-    height: 40px;
-    padding-left: 20px;
-    display: block;
-    margin-bottom: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid skyblue;
-}
-
-.register button {
-    width: 320px;
-    height: 40px;
-    border: 1px solid skyblue;
-    color: #fff;
-    background-color: skyblue;
-    cursor: pointer;
-}
-</style>
+<style scoped></style>
