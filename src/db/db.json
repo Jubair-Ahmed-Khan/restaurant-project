@@ -33,10 +33,10 @@
       "contact": "01678629935"
     },
     {
-      "id": 3,
       "name": "Dominos",
-      "address": "76,Arambag,Dhaka",
-      "contact": "01678704091"
+      "address": "125/A, Dhanmondi, Dhaka",
+      "contact": "01678704091",
+      "id": 3
     },
     {
       "name": "BFC",

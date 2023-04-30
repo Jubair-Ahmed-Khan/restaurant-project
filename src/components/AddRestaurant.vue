@@ -1,6 +1,6 @@
 <template>
     <h3>Add Restaurant</h3>
-    <form action="" class="add">
+    <form class="add">
         <input type="text" placeholder="Enter Name" name="name" v-model="restaurant.name">
         <input type="text" placeholder="Enter Address" name="address" v-model="restaurant.address">
         <input type="text" placeholder="Enter Contact" name="contact" v-model="restaurant.contact">
