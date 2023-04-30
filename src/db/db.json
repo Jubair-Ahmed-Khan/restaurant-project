@@ -1,22 +1,48 @@
 {
-    "users": [
-        {
-            "name": "Jubair Ahmed Khan",
-            "email": "jubair@gmail.com",
-            "password": "jubair123@",
-            "id": 1
-        },
-        {
-            "name": "Tanvir Ahmed",
-            "email": "tanvir@gmail.com",
-            "password": "tanvir123@",
-            "id": 2
-        },
-        {
-            "name": "Shakhawat Hossain Shihab",
-            "email": "shihab@gmail.com",
-            "password": "shihab123@",
-            "id": 3
-        }
-    ]
+  "users": [
+    {
+      "name": "Jubair Ahmed Khan",
+      "email": "jubair@gmail.com",
+      "password": "jubair123@",
+      "id": 1
+    },
+    {
+      "name": "Tanvir Ahmed",
+      "email": "tanvir@gmail.com",
+      "password": "tanvir123@",
+      "id": 2
+    },
+    {
+      "name": "Shakhawat Hossain Shihab",
+      "email": "shihab@gmail.com",
+      "password": "shihab123@",
+      "id": 3
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "16/10,Sontek,Jatrabari",
+      "contact": "01601293123"
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "address": "375,North Shahjahanpur,Dhaka",
+      "contact": "01678629935"
+    },
+    {
+      "id": 3,
+      "name": "Dominos",
+      "address": "76,Arambag,Dhaka",
+      "contact": "01678704091"
+    },
+    {
+      "name": "BFC",
+      "address": "35/1, Baily Road, Dhaka",
+      "contact": "01521701330",
+      "id": 4
+    }
+  ]
 }
