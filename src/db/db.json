@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Jubair Ahmed Khan",
+      "email": "jubair@gmail.com",
+      "password": "jubair123@",
+      "id": 1
+    },
+    {
+      "name": "Tanvir Ahmed",
+      "email": "tanvir@gmail.com",
+      "password": "tanvir123@",
+      "id": 2
+    },
+    {
+      "name": "Shakhawat Hossain Shihab",
+      "email": "shihab@gmail.com",
+      "password": "shihab123@",
+      "id": 3
+    },
+    {
+      "name": "Sahidul Islam Muhit",
+      "email": "muhit@gmail.com",
+      "password": "muhit123@",
+      "id": 4
+    },
+    {
+      "name": "Sahidul Isam Muhit",
+      "email": "muhit@gmail.com",
+      "password": "muhit123@",
+      "id": 5
+    }
+  ]
+}
